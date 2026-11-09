@@ -17,6 +17,8 @@ Compsci senior with a minor in machine learning and AI. By day I'm a Digital Ban
 - [bravixmedia.com](https://bravixmedia.com): the agency site
 - [Revenue Leak Report](https://leak.bravixmedia.com): a free calculator that shows contractors how much money missed calls and slow replies cost them each year
 - Client onboarding portal: intake survey, file uploads into an auto-built Google Drive folder, and email updates
+- [spa-management-system](https://github.com/zaidalssaraj/spa-management-system): spa booking and management web app with 6 user roles, C# / Blazor / Entity Framework Core *(team project)*
+- [store-database-manager](https://github.com/zaidalssaraj/store-database-manager): Java + PostgreSQL store manager with orders, price history, and sales reports *(team project)*
 - [tcp-multithreaded-chat-server](https://github.com/zaidalssaraj/tcp-multithreaded-chat-server): multithreaded TCP chat server in Java
 - [udp-multithreaded-chat-server](https://github.com/zaidalssaraj/udp-multithreaded-chat-server): UDP chat server in Java, one thread per datagram with a synchronized message counter
 
