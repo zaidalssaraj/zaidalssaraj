@@ -8,8 +8,7 @@ Compsci senior with a minor in machine learning and AI. By day I'm a Digital Ban
 ### Building now
 
 - **F1 race strategy simulator.** Replays a real Formula 1 race with a different pit stop and predicts where the driver would have finished. Live telemetry from OpenF1 and Jolpica, a bronze/silver/gold lakehouse on Azure Databricks, and a lap-time model trained on 2023-2025 races. *(class project, public once it's graded)*
-- **An AI operations setup for my agency.** Claude Code with custom skills and agents that build Meta ad campaigns through the Marketing API (always paused until I approve), check account health against kill/scale rules, read the CRM, and draft weekly client reports.
-- **Bravix Hub.** Private dashboard that pulls live campaign data from the Meta Graph API, scores every ad red/yellow/green against the client's target, and sends Slack alerts every hour. Next.js, Vercel, GitHub Actions, Upstash.
+- **Bravix Hub.** Private dashboard that pulls live campaign data from the Meta Graph API, scores every ad against the client's target, and sends Slack alerts every hour. Next.js, Vercel, GitHub Actions, Upstash.
 - **ledger.** My own bookkeeping app: bank CSV import, auto-sort rules, budgets, and a tax set-aside estimate. Next.js + Postgres.
 
 ### Shipped
