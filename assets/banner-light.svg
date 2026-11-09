@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Zaid Alssaraj. Computer science, machine learning, and building Bravix Media.">
+  <style>
+    .name{font:600 64px -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;letter-spacing:-2px;fill:#1f2328}
+    .sub{font:400 22px -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif;fill:#59636e}
+    .mono{font:500 15px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;fill:#59636e;letter-spacing:.5px}
+    .acc{fill:#1a7f37}
+    .cur{animation:b 1.1s steps(1) infinite}
+    @keyframes b{50%{opacity:0}}
+    .trace{stroke:#1a7f37;stroke-width:2;fill:none;stroke-dasharray:1400;stroke-dashoffset:1400;animation:d 3.2s cubic-bezier(.16,1,.3,1) .2s forwards}
+    @keyframes d{to{stroke-dashoffset:0}}
+    @media (prefers-reduced-motion: reduce){.cur,.trace{animation:none}.trace{stroke-dashoffset:0}}
+  </style>
+  <rect x=".5" y=".5" width="1199" height="299" rx="14" fill="#ffffff" stroke="#d1d9e0"/>
+  <g stroke="#eef1f4" stroke-width="1">
+    <path d="M0 60H1200M0 120H1200M0 180H1200M0 240H1200"/>
+    <path d="M720 0V300M840 0V300M960 0V300M1080 0V300"/>
+  </g>
+  <!-- lap-time trace: tyres wear, time climbs, pit stop resets it -->
+  <path class="trace" d="M700 210 L760 204 L820 196 L880 186 L940 172 L960 168 L966 110 L972 228 L1030 222 L1090 214 L1150 204"/>
+  <circle class="acc" cx="966" cy="110" r="5"/>
+  <text class="mono" x="980" y="104">pit lap 23</text>
+  <text class="mono" x="64" y="76">$ whoami<tspan class="acc cur"> _</tspan></text>
+  <text class="name" x="64" y="160">Zaid Alssaraj</text>
+  <text class="sub" x="64" y="204">CS senior · ML + AI minor · building <tspan class="acc">Bravix Media</tspan></text>
+</svg>
