@@ -8,7 +8,7 @@ Compsci senior with a minor in machine learning and AI. By day I'm a Digital Ban
 ### Building now
 
 - **F1 race strategy simulator.** Replays a real Formula 1 race with a different pit stop and predicts where the driver would have finished. Live telemetry from OpenF1 and Jolpica, a bronze/silver/gold lakehouse on Azure Databricks, and a lap-time model trained on 2023-2025 races. *(class project, public once it's graded)*
-- **Bravix Hub.** Private dashboard that pulls live campaign data from the Meta Graph API, scores every ad against the client's target, and sends Slack alerts every hour. Next.js, Vercel, GitHub Actions, Upstash.
+- **Bravix Hub.** The agency's command center, built to run all day on a TV. Pulls live data from HighLevel (texts, pipeline, calendars), Stripe, Meta, and Fathom. Tracks the health of each texting number from carrier error codes, shows cash collected and MRR against goals, and takes over the screen with a celebration when a payment lands. Read-only keys that never leave the server, hourly Slack alerts. Next.js, Vercel, Upstash Redis, GitHub Actions.
 - **ledger.** My own bookkeeping app: bank CSV import, auto-sort rules, budgets, and a tax set-aside estimate. Next.js + Postgres.
 
 ### Shipped
